@@ -1,1 +1,23 @@
+a quick breakdown of the dataset:
 
+Features: There are 4 features for each sample:
+
+Sepal Length (in cm)
+
+Sepal Width (in cm)
+
+Petal Length (in cm)
+
+Petal Width (in cm)
+
+Target Variable: The species of the flower, which can be one of the following:
+
+Setosa
+
+Versicolor
+
+Virginica
+
+Total Samples: 150 (50 samples per species)
+
+The Iris dataset is often used for classification tasks, as it contains labeled data with clear differences between species based on the measurements of sepal and petal length and width.
